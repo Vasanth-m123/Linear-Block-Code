@@ -99,5 +99,7 @@ print(f"The correct codeword is : " + " " .join(map(str,add)))
 
 
 # Results
+```
 Thus, the Linear Block Code Program has been executed successfully.
+```
 # Hardware experiment output waveform.
